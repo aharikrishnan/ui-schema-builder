@@ -1,0 +1,13 @@
+{
+  "name": "angularjs-bvgae4",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "angular": "^1.7.9",
+    "angular-formly": "^8.4.1",
+    "angular-formly-templates-bootstrap": "^6.5.1",
+    "angular-ui-bootstrap": "^2.5.6",
+    "api-check": "^7.0.0",
+    "bootstrap": "^3.2.0"
+  }
+}
